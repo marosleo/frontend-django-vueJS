@@ -19,7 +19,7 @@
             <a href="#">Meu Perfil</a>
           </li>
           <li>
-            <a href="http://191.52.55.180:8000/profile/">Login</a>
+            <a href="http://localhost:8000/profile/">Login</a>
           </li>
         </ul>
       </div>
